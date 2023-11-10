@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ailmseeker.github.io/project_final/static/css/main.8c429eab.css",
+    "main.js": "/ailmseeker.github.io/project_final/static/js/main.4a4e9aa7.js",
+    "index.html": "/ailmseeker.github.io/project_final/index.html",
+    "main.8c429eab.css.map": "/ailmseeker.github.io/project_final/static/css/main.8c429eab.css.map",
+    "main.4a4e9aa7.js.map": "/ailmseeker.github.io/project_final/static/js/main.4a4e9aa7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c429eab.css",
+    "static/js/main.4a4e9aa7.js"
+  ]
+}
